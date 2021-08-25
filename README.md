@@ -46,7 +46,7 @@ pip install selenium
 1. Clone the repository:
 
    ```bash
-   $ gh repo clone Every-Developer/InstagramBot
+   gh repo clone Every-Developer/InstagramBot
    ```
 
    or download as zip and extract.
@@ -59,8 +59,7 @@ pip install selenium
 2. In the root directory run
 
    ```bash
-   $ pipenv install
-   $ pipenv run python InstaBot(Unfollow).py
+   pipenv run python InstaBot(Unfollow).py
    ```
    
 <br>
