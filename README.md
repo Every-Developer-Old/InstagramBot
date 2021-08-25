@@ -46,7 +46,7 @@ pip install selenium
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/Every-Developer/InstagramBot
+   $ gh repo clone Every-Developer/InstagramBot
    ```
 
    or download as zip and extract.
