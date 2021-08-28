@@ -59,7 +59,7 @@ pip install selenium
 2. In the root directory run
 
    ```bash
-   pipenv run python InstaBot(Unfollow).py
+   python InstaBot(Unfollow).py
    ```
    
 <br>
