@@ -20,7 +20,7 @@
   </p>
 <p align='center'><a href='https://github.com/Every-Developer'><img  src='https://img.shields.io/badge/Coded%20By-Mohammadreza.D-plum'></a></p>
       
-# 💡 How to install the InstaBot?
+# 💡 How to install the InstaBot v11.0?
 
 - [x] 1. Install [Python](https://www.python.org) 3.9.0 (Reccomended <Python 3.9.6> from >>>
 [here](https://www.python.org/downloads/)<br>[***Note that Python 3.9.x cannot be used on Windows 7 or earlier**]
@@ -34,9 +34,9 @@ pip install selenium
 ```
 <br>
 
-***🌐[Selenium drivers](https://selenium-python.readthedocs.io/installation.html#drivers) must be installed to run instabot. (drivers not included❌)🌐***
+***🌐All selenium [drivers](https://selenium-python.readthedocs.io/installation.html#drivers) included in the project✔🌐***
 
-- Microsoft Edge Driver(*default*)
+- [x] Microsoft Edge Driver(*default*)
 - [ ] FireFox driver
 - [ ] Chrome driver
 

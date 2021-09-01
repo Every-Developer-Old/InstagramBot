@@ -1,0 +1,11 @@
+What's New in Instagrambot version 11.0-beta🤔
+
+
+1. Some bugs have been fixed dramatically
+2. Added *error handling* to the program
+3. Username and password will be inputed
+4. Improvements in the program process and step by step progress
+5. Added *View more* button for multiple requests
+6. Added Microsoft Edge Driver(v91.0.864) to project
+
+All in the >>> August update
