@@ -1,7 +1,7 @@
 
 <h1 align="center">InstaBot(Unfollow)🤖</h1>
 <p align="center">
-<img src="https://imgur.com/nu9qFI0.png" width='300'>
+<img src="https://imgur.com/nu9qFI0.png" width='280'>
   <h3 align='center'>I am a robot. I can Unfollow requests you sent to your friends who did not accept your invitation😚<br> All with selenium. Fast🏃🏻‍♂️ and powerful💪🏻</h3><br>
 </p>
   <p align="center">⭐️ Star it | 🔱 Fork it on GitHub </p>
