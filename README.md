@@ -1,22 +1,21 @@
 
-<h1 align="center">InstaBot(Unfollow)🤖</h1>
+<h1 align="center">🤖InstaBot(Unfollow)🤖</h1>
 <p align="center">
 <img src="https://imgur.com/nu9qFI0.png" width='280'>
   <h3 align='center'>I am a robot. I can Unfollow requests you sent to your friends who did not accept your invitation😚<br> All with selenium. Fast🏃🏻‍♂️ and powerful💪🏻</h3><br>
 </p>
   <p align="center">⭐️ Star it | 🔱 Fork it on GitHub </p>
   <p align="center">
-    <a href="https://github.com/Every-Developer/WhatsApp_Bot/blob/Main/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT License-lightskyblue.svg" />
-    </a>
     <a href="https://selenium-python.readthedocs.io/">
       <img src="https://img.shields.io/badge/built%20with-Selenium-crimson" />
     </a>
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/Language-Python-turquoise" />
     <a href="https://github.com/Every-Developer?tab=stars">
-      <img src='https://img.shields.io/badge/1-Stars-goldenrod'>
-  <img src='https://img.shields.io/badge/0-Forks-brightgreen'>
+      <img src='https://img.shields.io/badge/Release-v12.0-goldenrod'>
+    <a href="https://github.com/Every-Developer/InstagramBot/blob/Professional/LICENSE">
+      <img src="https://img.shields.io/badge/license-MIT License-lightskyblue.svg" />
+    </a>
   </p>
 <p align='center'><a href='https://github.com/Every-Developer'><img  src='https://img.shields.io/badge/Coded%20By-Mohammadreza.D-plum'></a></p>
       
