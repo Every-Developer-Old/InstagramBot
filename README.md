@@ -39,6 +39,10 @@ pip install selenium
 - [x] Microsoft Edge Driver (*default*)
 - [x] FireFox driver
 - [x] Chrome driver
+      
+<br>
+
+✍🏻These drivers are for 64-bit Windows
 
 
 # How to run the Script? 🤔
