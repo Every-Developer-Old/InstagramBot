@@ -78,5 +78,7 @@ If you find a bug (the script couldn't handle the undesired errors), Please open
 
 If you'd like to request a new function, feel free to do so by opening an issue here.
 
+<br>
+      
 ***Thanks for your choise***
 
