@@ -2,7 +2,7 @@
 # Programmer : Mohammadreza.D
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Python Version : 3.9.6
-# Selenium Version : 21.2.4
+# Selenium Version : 4.0.0
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Developer name : *_* Every Developer *_*
 # Github >>> https://github.com/Every-Developer/InstagramBot
