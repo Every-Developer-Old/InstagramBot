@@ -2,7 +2,7 @@
 # Programmer : Mohammadreza.D
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Python Version : 3.9.6
-# Selenium Version : 21.1.2
+# Selenium Version : 4.0.0
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Company Name : *_* Every Developer *_*
 # Github >>> https://github.com/Every-Developer
