@@ -1,7 +1,7 @@
-# InstaBot!(Request remover) v12.0
+# InstaBot!(Request remover) v12.1
 # Programmer : Mohammadreza.D
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
-# Python Version : 3.9.6
+# Python Version : 3.9.9
 # Selenium Version : 4.0.0
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - -#
 # Developer name : *_* Every Developer *_*
@@ -9,6 +9,8 @@
 # _________________________________________________________#
 
 from selenium import webdriver
+
+# from User_Password import User_name,  Password
 
 from time import sleep
 
@@ -18,7 +20,6 @@ Password  = input('Enter Password : ')
 
 # YOUR REQUESTED IDs
 try:
-    
     ids_file = open('All User IDs.txt', encoding="utf-8")
     All_ids = str(ids_file.read())
     ids_file.close()
@@ -71,10 +72,12 @@ class Bot():
 
         
         try:
+
             # Current Follow REQUESTS
             self.driver.get('https://www.instagram.com/accounts/access_tool/current_follow_requests')
 
             sleep(2)
+
 
         except Exception:
             
@@ -82,7 +85,7 @@ class Bot():
                 
                 Pin_Error = self.driver.find_element_by_xpath('//*[@id="slfErrorAlert"]')
 
-                print('''Sorry, your Username or password was X_X incorrect X_X. Please check your user/pass.''')
+                print('''Sorry, your Username or password was X_X incorrect X_X.Please double-check your user/pass.''')
                 
                 sleep(10)
                 quit()
@@ -91,7 +94,6 @@ class Bot():
                 
                 print('''Address bar not found *__* 
                     Please run the robot again (Unable to locate element)''')
-                
                 sleep(10)
                 quit()
 
@@ -145,22 +147,15 @@ class Bot():
 
         for id_address in Accounts_list:
 
-            try:
-            
-                self.driver.get(f'https://www.instagram.com/{id_address}/')
-                sleep(1)
+            self.driver.get(f'https://www.instagram.com/{id_address}/')
+            sleep(1)
 
-                # REQUESTED button
-                Requested = self.driver.find_element_by_xpath(
-                    '/html/body/div[1]/section/main/div/header/section/div[1]/div[1]/div/div/button')
-                Requested.click()
+            # REQUESTED button
+            Requested = self.driver.find_element_by_xpath(
+                '/html/body/div[1]/section/main/div/header/section/div[1]/div[1]/div/div/button')
+            Requested.click()
 
-                sleep(2)
-
-            except Exception:
-
-                print(f"There is no ID with {id_address}'s name on Instagram")
-                continue
+            sleep(2)
 
             # Unfollowing user requested
             Unfollow = self.driver.find_element_by_xpath(
@@ -177,7 +172,3 @@ def Request_remover():
 if __name__ == '__main__':
 
     Request_remover()
-
-
-# THE END OF BOT
-# I hope the program works properly😊
