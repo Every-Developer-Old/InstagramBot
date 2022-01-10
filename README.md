@@ -62,7 +62,6 @@ pip install selenium
 
 - [x] Download the desired version from the [***Releases***](https://github.com/Every-Developer/InstagramBot/releases) section (v12.1)
 
-      
 <br>      
 
 2. In the directory run
@@ -72,7 +71,7 @@ pip install selenium
    
    InstagramBot.exe
    ```
-<br>
+
 
 - [x] Please enter your **Username** and **password** in Terminal.
    
