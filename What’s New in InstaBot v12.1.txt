@@ -1,0 +1,9 @@
+What's New in Instagrambot version 12.1🤔
+
+
+1. Update all drivers:
+    - MicrosoftEdgeDriver(v93 to v97)
+    - Chrome driver (Compatible with Google Chrome v97)
+    - Firefox driver (geckodriver v0.29 to v0.30)
+
+2. The exe file was repaired
