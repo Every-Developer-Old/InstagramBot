@@ -24,8 +24,8 @@
 
 # 💡 What are the requirements of InstaBot?
 
-- [x] 1. Install [Python](https://www.python.org) 3.9.0 or later(<Python 3.9.9> is used).download from >>>
-[here](https://www.python.org/downloads/)<br>[***Note that Python 3.9.x cannot be used on Windows 7 or earlier**]
+- [x] 1. Install [Python](https://www.python.org) 3.9.0 or later (<Python 3.9.9> is used). download from 
+[here](https://www.python.org/downloads/)<br>***Note that Python 3.9.x cannot be used on Windows 7 or earlier**
 <br>
 
 - [x] 2. Install the **latest version** of [Selenium](https://selenium-python.readthedocs.io/) (v4.0.0 is used)
